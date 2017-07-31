@@ -1,99 +1,109 @@
-==== Call for Papers (WHiSe 2016) ====
-Workshop on Digital Humanities in the Semantic Web - WHiSe 2016
+==== Call for Papers (QEKGraph 2017) ====
+1st International Workshop on Quality Engineering Meets Knowledge Graph- QEKGraph 2017
 
-Date: May 29 or 30, 2016
-Venue: Heraklion, Crete (co-located with ESWC 2016)
-Hashtag: #whise2016
-Twitter: @whiseworkshop
-Site: http://whise.kmi.open.ac.uk/index.html
+Date: December 4, 2017 (TBC)
+Venue: Austin, Texas, United States (co-located with K-CAP 2017)
+Twitter: @qekgraph
+Site: http://qekgraph.kmi.open.ac.uk/index.html
 
 Workshop chairs:
+- Shuangyan Liu - The Open University
 - Alessandro Adamou - The Open University
-- Enrico Daga - The Open University
-- Leif Isaksen - University of Lancaster 
+- Nandana Mihindukulasooriya - Universidad Politécnica de Madrid 
 
 # DESCRIPTION
-There are a number of specialised fields of research in the Humanities that have recorded success stories of adoption of technologies 
-in the Semantic Web. 
-Digital collections, cultural heritage aggregators, digital libraries, gazetteers, thesauri and digital maps of the past have all 
-demonstrated to lend themselves to putting applications of Linked Data and Web ontologies to good use.
+A knowledge graph is any graph-based knowledge base, which represents a large network of 
+entities, their semantic types (e.g. a Person or an Organisation), properties (e.g. the 
+name and birth date of a person), and relationships between entities such as a person 
+working in an organisation. Academic research communities, as well as industrial 
+stakeholders, have constructed a number of large-scale knowledge graphs in recent years 
+such as DBpedia, YAGO, Freebase, Wikidata, Google Knowledge Graph, Microsoft Satori, 
+Facebook Entity Graph, Yahoo! Knowledge Graph and others. They are intensively used in 
+different application scenarios such as search, question answering, natural language 
+processing, data integration and analytics, and for specialised areas such as digital 
+humanities, business, life science and more.
 
-It is therefore important to reflect on the extent to which the Semantic Web community - its vision, its technological offer and the 
-large volumes of data it generates - are serving the needs of historians, philologists, cultural critics, musicologists and other 
-humanists that generally cannot rely on structured data generated en masse through social networks or online media platforms.
-Is the race for Big Data mining cutting off these scholarly categories?
-Are there research challenges of interest that humanists have not considered due to perceptions that Linked Data is either another way 
-to represent digital collections, or an arcane technical science whose results are as opaque as its procedures?
-What problems do Humanities users have in interacting with Semantic Web content and applications?
-And how can they help Semantic Web researchers support modes of inquiry beyond the constraints of rationalism and technical solutionism? 
+However, due to the diversity of data sources and limitations of present knowledge 
+extraction methods, most knowledge graphs face a variety of quality issues such as noise 
+and vague data, inconsistency, inaccurate and out-of-date data, incomplete information, 
+and poor interlinking between KGs. To facilitate wide adoption and advanced usage, it is 
+crucial to ensure the quality of knowledge graphs.
 
-WHiSe 2016 welcomes original research contributions crossing Humanities and the Semantic Web. 
-Scholars who have conducted research or developed impactful applications are invited to submit full papers with appropriately evaluated 
-contributions. 
-WHiSe also welcomes vision/position papers on novel challenges or approaches to existing problems (short papers), 
-as well as proposals for demo or poster showcases during the workshop. 
-Topics on which potential submitters are invited to contribute include, but are not limited to:
+There are still big gaps between present state of quality engineering techniques and high 
+quality KGs and their effective applications. Therefore, this workshop aims to address 
+not only the challenges and state-of-the-art solutions in quality assessment and 
+improvement for knowledge graphs, but also challenges for effectively employing reliable 
+KGs in different domains.
 
-- Semantic applications and systems in the Humanities and cultural heritage
-- Novel approaches enabling the use of Semantic Web technologies in Digital Humanities
-- Definition and alignment of controlled vocabularies in the Humanities
-- Relationship between markup languages and ontologies in the Humanities
-- Representation and reasoning with Space and Time in the context of Digital Humanities
-- Quality issues with semantic (linked) databases in the Humanities domain
-- Addressing incompleteness and fuzziness in historical data
-- Interlinking historical datasets or other Humanities data with data from other domains
-- Usability of interfaces to Linked Data for Humanities Data and interaction patterns
-- Methodological aspects and interactions between the Semantic Web and Humanities research communities
-- Studies of users and their needs/constraints (as opposed to ‘toy’ problems)
-- Position papers on past, present and future of semantic technologies in the Humanities
-- Concrete use cases of working multi-lateral connectivity or the use of semantic data ‘in the wild’
+QEKGraph welcomes original research contributions crossing Data Quality and knowledge 
+graph management and consumption. Scholars who have conducted research or developed 
+impactful applications are invited to submit full papers with appropriately evaluated 
+contributions. QEKGraph also welcomes vision/position papers on novel challenges or 
+approaches to existing problems (short papers). Topics on which potential submitters are 
+invited to contribute include, but are not limited to:
 
-Submissions in all the categories mentioned above (full, short, poster/demo papers) will be peer-reviewed by acknowledged researchers 
-familiar with both scientific communities. Accepted papers will be published as online proceedings courtesy of CEUR-WS.org, however 
-workshop chairs will award one best paper to be published as part of the proceedings of the ESWC 2016 conference.
+- Quality issues in knowledge graphs
+- Quality assessment metrics and measures
+- Representation of quality assessment results
+- Data cleaning and knowledge graphs
+- Outlier detection in knowledge graphs
+- Triple classification and ranking
+- Trust and provenance of knowledge graphs
+- Data integration and quality control
+- Evaluation of quality of links in the Web of Data
+- Evaluation of link prediction methods
+- Evaluation benchmark and datasets
+- Multilingual knowledge graphs and quality control
+- Quality assessment at scale
+- Crowdsourcing and knowledge graph quality
+- Quality of specialised knowledge graphs
+- Trust and reliability of digital humanities and social science data
+- Advancing education with data quality engineering
+
+Submissions in all the categories mentioned above (full or short papers) will be 
+peer-reviewed by acknowledged researchers familiar with both scientific communities. 
+Accepted papers will be published as online proceedings courtesy of CEUR-WS.org.
 
 # IMPORTANT DATES
-Submission deadline: Tuesday, March 1
-Notification to authors: Friday, April 1
-Camera-ready due on: Friday, April 15
-Workshop day: 29 or 30 May 2016 - To be confirmed 
+Submission deadline: Thursday, September 28, 2017*
+Notification to authors: Friday, October 13, 2017*
+Camera-ready due on: Sunday, October 22, 2017*
+Workshop day: Monday, December 4, 2017 - to be confirmed
+(*) All deadlines are 23:59 Hawaii time
     
 # SUBMISSION INSTRUCTIONS
-All papers must represent original and unpublished work that is not currently under review. 
-Papers will be evaluated according to their significance, originality, technical content, style, clarity, and relevance to the workshop.
+All papers must represent original and unpublished work that is not currently under 
+review. Papers will be evaluated according to their significance, originality, technical 
+content, style, clarity, and relevance to the workshop.
+
 We welcome the following types of contributions:
-- Full papers (up to 12 pages)
-- Short papers (up to 6 pages)
-- Poster or Demo papers (up to 4 pages) 
-All submissions must be PDF documents written in English and formatted according to LNCS instructions for authors 
-[ http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0 ]. Page limits are inclusive of references and appendices, if any.
-Papers are to be submitted through the Easychair Conference Management System [ https://easychair.org/conferences/?conf=whise2016 ].
+- Full papers (up to 6 pages)
+- Short papers (up to 4 pages)
+All submissions must be PDF documents written in English and formatted according to ACM 
+SIG Proceedings guidelines [https://www.acm.org/publications/proceedings-template].
+Papers are to be submitted through the Easychair Conference Management System 
+[https://easychair.org/conferences/?conf=qekgraph2017]. Page limits are inclusive of 
+references and appendices, if any.
 
 # PROGRAM COMMITTEE
 
-- Carlo Allocca, The Open University
-- Elton Barker, The Open University
-- Francesca Benatti, The Open University
-- Gabriel Bodard, King’s College
-- Kai-Christian Bruhn, mainzed
-- Benjamin Fields, Goldsmiths University of London
-- Nick Gibbins, University of Southampton
-- Asunción Gómez-Pérez, Universidad Politécnica de Madrid
-- Elena González-Blanco, Universidad Nacional de Educación a Distancia
-- Jorge Gracia, Universidad Politécnica de Madrid
-- Ethan Gruber, American Numismatic Society
-- Eero Hyvönen, Aalto University
-- Rinke Hoekstra, Vrije Universiteit Amsterdam
-- Laura Hollink, Centrum Wiskunde & Informatica
-- Lorna Hughes, University of Glasgow
-- Antoine Isaac, Vrije Universiteit Amsterdam
-- Angeliki Lymberopoulou, The Open University
-- Elena Montiel, Universidad Politécnica de Madrid
-- Paul Mulholland, The Open University
-- Dominic Oldman, British Museum
-- Kevin Page, University of Oxford
-- Silvio Peroni, Alma Mater Studiorum Università di Bologna
-- Mia Ridge, The British Library
-- Rainer Simon, Austrian Institute of Technology
-- Ilaria Tiddi, The Open University
-- Daniel Vila-Suero, Universidad Politécnica de Madrid 
+- Riccardo Albertoni, Istituto per la Matematica Applicata e Tecnologie Informatiche "Enrico Magenes", Italy
+- Mathieu d’Aquin, Insight Centre Galway, Ireland
+- Helena Bermúdez-Sabel, Universidad de Educación a Distancia (UNED), Spain
+- Oscar Corcho, Universidad Politécnica de Madrid, Spain
+- Mariana Curado Malta, Polythecnic of Oporto, Portugal
+- Marilena Daquino, Digital Humanities, University of Bologna, Italy
+- Jeremy Debattista, Adapt Centre, Trinity College Dublin, Ireland
+- Wassim Derguech, Insight Centre Galway, Ireland
+- Anastasia Dimou, Ghent University - IMEC, Belgium
+- Lisa Ehrlinger, Johannes Kepler University, Austria
+- Raúl García-Castro, Universidad Politécnica de Madrid, Spain
+- Oktie Hassanzadeh, IBM Thomas J. Watson Research Center, United States
+- Sangha Nam, KAIST, Korea
+- Francesco Osborne, The Open University, UK
+- Mariano Rico, Universidad Politécnica de Madrid, Spain
+- Mariano Rodriguez-Muro, IBM Thomas J. Watson Research Center, United States
+- Cristina Sarasua, Universität Koblenz-Landau, Germany
+- Bahar Sateli, Concordia University, Canada
+- Boris Villazon-Terrazas, Fujitsu Laboratories of Europe, Madrid, Spain
+- Amrapali Zaveri, Maastricht University, The Netherlands
