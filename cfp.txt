@@ -88,6 +88,7 @@ references and appendices, if any.
 # PROGRAM COMMITTEE
 
 - Riccardo Albertoni, Istituto per la Matematica Applicata e Tecnologie Informatiche "Enrico Magenes", Italy
+- Panos Alexopoulos, Textkernel B.V., Netherlands 
 - Mathieu d’Aquin, Insight Centre Galway, Ireland
 - Helena Bermúdez-Sabel, Universidad de Educación a Distancia (UNED), Spain
 - Oscar Corcho, Universidad Politécnica de Madrid, Spain
