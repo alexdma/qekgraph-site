@@ -99,7 +99,9 @@ references and appendices, if any.
 - Anastasia Dimou, Ghent University - IMEC, Belgium
 - Lisa Ehrlinger, Johannes Kepler University, Austria
 - Raúl García-Castro, Universidad Politécnica de Madrid, Spain
+- Xianpei Han, Chinese Academy of Sciences, China 
 - Oktie Hassanzadeh, IBM Thomas J. Watson Research Center, United States
+- Wei Hu, Nanjing University, China
 - Sangha Nam, KAIST, Korea
 - Francesco Osborne, The Open University, UK
 - Mariano Rico, Universidad Politécnica de Madrid, Spain
@@ -107,4 +109,5 @@ references and appendices, if any.
 - Cristina Sarasua, Universität Koblenz-Landau, Germany
 - Bahar Sateli, Concordia University, Canada
 - Boris Villazon-Terrazas, Fujitsu Laboratories of Europe, Madrid, Spain
+- Xin Wang, Tianjin University, China
 - Amrapali Zaveri, Maastricht University, The Netherlands
